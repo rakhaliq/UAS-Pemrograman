@@ -1,3 +1,5 @@
+//aplikasi ini hanya untuk sebagai perantara pengguna untuk menemukan seller legal dan terpercaya yang menjual top up game 
+
 #include <iostream>
 
 using namespace std;
